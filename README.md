@@ -1,27 +1,33 @@
-# IntroMarketingAnalytics
-# 📊 Marketing Analytics - Curso
+# 🚀 Marketing Analytics: ¡Tu viaje al mundo secreto de los datos de marketing!
 Autor: Diana Bohorquez 
 
-Este repositorio contiene materiales, notebooks, datasets y recursos utilizados en el curso de **Marketing Analytics**. El objetivo de este curso es enseñar cómo utilizar datos y herramientas analíticas para tomar decisiones informadas en el ámbito del marketing.
+¿Alguna vez te has preguntado cómo las marcas saben exactamente qué producto mostrarte, cuándo enviarte ese email irresistible o qué descuento ofrecerte para que no puedas decir que no? Spoiler: no es magia, ¡es Marketing Analytics!
 
-## 🧠 Contenidos del Curso
+Este repositorio es tu **mapa del tesoro** para descubrir los secretos detrás de las decisiones de marketing basadas en datos. Aquí no solo aprenderás teoría aburrida, sino que te sumergirás en el análisis, modelado y visualización de datos para convertirte en un auténtico detective de mercado.
 
-- Fundamentos de Marketing Analytics
-- Análisis exploratorio de datos (EDA)
-- Segmentación de clientes
-- Modelos de atribución
-- Marketing Mix Modeling (MMM)
-- Análisis de cohortes y CLV (Customer Lifetime Value)
-- Visualización de datos para marketing
-- Herramientas: Python, pandas, scikit-learn, matplotlib, seaborn, etc.
+## 🌟 ¿Qué encontrarás en este cofre del conocimiento?
 
-## 📁 Estructura del Repositorio
+- **Exploración de datos** para conocer a tus clientes mejor que ellos mismos.
+- **Segmentación de clientes** para crear campañas tan personalizadas que parecerán hechas a medida.
+- **Modelos de atribución** que te ayudarán a entender qué canal realmente merece el crédito.
+- **Análisis de cohortes y CLV** para saber quién es tu verdadero fan y cuánto vale.
+- Herramientas y trucos con Python, pandas, scikit-learn y mucho más para que tus datos cobren vida.
 
-📂 datasets/ # Datos utilizados en las prácticas
-📂 notebooks/ # Notebooks del curso (clases y ejercicios)
-📂 proyectos/ # Proyectos finales o trabajos prácticos
-📄 README.md # Descripción general del curso
+## 📂 ¿Qué hay dentro de la caja?
 
-markdown
-Copiar
-Editar
+📁 datasets/ – Los ingredientes secretos (datos) para tus experimentos.
+📁 notebooks/ – Tus laboratorios donde las ideas cobran forma en código.
+📁 proyectos/ – Los desafíos finales que te convertirán en un ninja del marketing.
+README.md – Este libro de aventuras, para que no pierdas el rumbo.
+
+
+## 🎯 ¿Listo para empezar?
+
+Solo necesitas:
+
+- Python 3.8+
+- Un poco de curiosidad
+- Y las librerías que puedes instalar fácil con:
+
+```bash
+pip install -r requirements.txt
