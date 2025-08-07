@@ -1,5 +1,6 @@
 # IntroMarketingAnalytics
 # 📊 Marketing Analytics - Curso
+Autor: Diana Bohorquez 
 
 Este repositorio contiene materiales, notebooks, datasets y recursos utilizados en el curso de **Marketing Analytics**. El objetivo de este curso es enseñar cómo utilizar datos y herramientas analíticas para tomar decisiones informadas en el ámbito del marketing.
 
